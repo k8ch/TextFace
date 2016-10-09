@@ -5,6 +5,6 @@ Telegram bot <b>@textsmileybot</b> that takes a certain command and returns a te
 <p>tableflip - (╯°□°）╯︵ ┻━┻ </p>
 <p>tableset - ┬──┬ ノ( ゜-゜ノ) </p>
 <p>disaproval - ಠ_ಠ </p>
-<p>lenny -  ͡(° ͜ʖ ͡°) </p>
+<p>lenny -  ͡( ͡° ͜ʖ ͡°) </p>
 <p>In the future more commands might be added. </p>
 
